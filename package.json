@@ -1,0 +1,22 @@
+{
+  "name": "sit725--2024-t2-prac2",
+  "version": "1.0.0",
+  "description": "sit 725 T2 week 2 practical",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrit-224236794/sit725--2024-t2-prac2.git"
+  },
+  "author": "amrit-224236794",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amrit-224236794/sit725--2024-t2-prac2/issues"
+  },
+  "homepage": "https://github.com/amrit-224236794/sit725--2024-t2-prac2#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
